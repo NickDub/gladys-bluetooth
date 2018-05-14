@@ -1,6 +1,6 @@
 # gladys-bluetooth 
 
-The goal of this module is to scan bluetooth inside the house to detect devices we have on us. 
+The goal of this module is to scan bluetooth inside the house to detect devices we have on us.
 
 Examples :
 

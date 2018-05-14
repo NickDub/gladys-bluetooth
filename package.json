@@ -9,12 +9,12 @@
   "author": "Pierre-Gilles Leymarie, Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
+    "async": "~0.2.9",
     "emoji-strip": "^1.0.1",
-    "noble": "^1.8.1",
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1",
-    "xiaomi-gap-parser": "^1.0.2",
     "flower-power": "^0.3.0",
-    "async": "~0.2.9"
+    "noble": "^1.9.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.1",
+    "xiaomi-gap-parser": "^1.0.2"
   }
 }
