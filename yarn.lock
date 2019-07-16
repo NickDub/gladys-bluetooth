@@ -826,9 +826,9 @@ wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
 
-xiaomi-gap-parser@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/xiaomi-gap-parser/-/xiaomi-gap-parser-1.0.2.tgz#4816e71a4ee31d2892e3c44f8dd05f79f0a3e2c7"
+xiaomi-gap-parser@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/xiaomi-gap-parser/-/xiaomi-gap-parser-1.0.3.tgz#33908406a4fbd55abb9299cc36aff46ee3c09fb6"
 
 xpc-connection@~0.1.4:
   version "0.1.4"
