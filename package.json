@@ -9,7 +9,7 @@
   "author": "Pierre-Gilles Leymarie, Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "async": "~3.1.0",
+    "async": "~3.1.1",
     "emoji-strip": "^1.0.1",
     "flower-power": "^0.3.0",
     "noble": "^1.9.1",
