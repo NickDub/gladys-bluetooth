@@ -14,7 +14,7 @@
     "flower-power": "^0.3.0",
     "noble": "^1.9.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
+    "request-promise": "^4.2.6",
     "xiaomi-gap-parser": "^1.0.3"
   }
 }
